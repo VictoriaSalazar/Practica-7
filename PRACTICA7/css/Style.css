@@ -1,0 +1,76 @@
+	*{
+		margin:0;
+		padding:0;
+	}
+	body{
+	background-color:#FF4E6B;
+	font-family: Segoe UI Light, Calibri;
+	font-size=12px;
+	}
+	h1{
+	font-family: Segoe UI Light, Calibri;
+	font-size:20px;
+	color:#FF4E6B;
+	}
+	h2{
+	font-family: Segoe UI Light, Calibri;
+	font-size:16px;
+	color:#786A59;
+	}
+	h3{
+	font-family: Segoe UI Light, Calibri;
+	font-size:20px;
+	color:#FF4E6B;
+	}
+	table{
+		width:100%;
+	}
+	td{
+		vertical-align:top;
+	}
+	ul{
+		list-style:none;
+		margin-top:0px;
+	}
+	ul li{
+		font-family:Calibri, Georgia, serif;
+		font-size:18px;
+	}
+	ul li a{
+		display:block;
+		background-color:#FFFDC3;
+		color:#C39FE8;
+		height:30px;
+		width:150px;
+		padding-left:10px;
+	}
+	ul li a:hover{
+		-moz-transform:rotate(-5deg);
+		-moz-box-shadow:10px 10px 20px 20px;
+		-webkit-transform:rotate(-5deg);
+		-webkit-box-shadow:10px 10px 20 px 20px #33CDFF;
+		transform:rotate(4deg);
+		box-shadow:10px 10px 20px 20px #33CDFF;
+		margin-left:20px;
+	}
+	table td div{
+		width:500px;
+		height:220px;
+		background-color:#FFFDC3;
+		border:3px solid #999999;
+		border-radius:15px;
+		margin:10px;
+		padding:15px;
+		box-shadow:2px 2px 5px #C2FF52;
+	}
+	.encabezado{
+		width:1350px;
+		height:100px;
+		background-color:#FFFDC3;
+	}
+	.piepagina{
+		width:1350px;
+		height:100px;
+		background-color:#FFFDC3;
+	}
+	
